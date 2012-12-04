@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/vincent/Workspace/gitrepo/M3/libs/commons-io-2.3.jar"/>
+	<classpathentry kind="lib" path="/home/vincent/Workspace/gitrepo/M3/libs/mail.jar"/>
+	<classpathentry kind="lib" path="/home/vincent/Workspace/gitrepo/M3/libs/mysql-connector-java-5.1.20-bin.jar"/>
+	<classpathentry kind="lib" path="/home/vincent/Workspace/gitrepo/M3/libs/org.eclipse.swt-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/vincent/Workspace/gitrepo/M3/libs/traceview.jar"/>
+	<classpathentry kind="lib" path="/home/vincent/Application/android-sdk-linux/tools/lib/ddmlib.jar"/>
+	<classpathentry kind="lib" path="/home/vincent/Application/android-sdk-linux/tools/lib/ddms.jar"/>
+	<classpathentry kind="lib" path="/home/vincent/Application/android-sdk-linux/tools/lib/ddmuilib.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
